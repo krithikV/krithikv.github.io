@@ -9,7 +9,7 @@ header:
       # @start locale config
       en      : &EN       Blog
       # @end locale config
-    url: /_layouts/home.html
+    url: /blog.html
     
   - titles:
       # @start locale config
