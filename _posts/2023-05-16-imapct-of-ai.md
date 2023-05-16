@@ -1,6 +1,6 @@
 ---
 layout: article
-title: Document - Writing Posts
+title: The Impact of Artificial Intelligence: Transforming the World as We Know It
 mathjax: true
 ---
 Artificial Intelligence (AI) has emerged as a groundbreaking technological advancement in recent years, revolutionizing various aspects of our lives. As AI continues to evolve and permeate different industries, its impact on society, economy, and culture becomes increasingly profound. This essay delves into the transformative effects of artificial intelligence, examining its positive contributions, potential challenges, and the need for responsible implementation.
