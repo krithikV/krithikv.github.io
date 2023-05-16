@@ -4,6 +4,11 @@ header:
       en      : &EN       Home
       # @end locale config
     url: /
+   - titles:
+      # @start locale config
+      en      : &EN       Blog
+      # @end locale config
+    url: /blog.html
   - titles:
       # @start locale config
       en      : &EN       Archive
