@@ -8,7 +8,7 @@ header:
       # @start locale config
       en      : &EN       Products
       # @end locale config
-    url: /blog.html
+    url: http://fpay.finterk.in/
     
   - titles:
       # @start locale config
